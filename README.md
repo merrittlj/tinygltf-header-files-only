@@ -1,0 +1,1 @@
+A git submodule I use in some of my projects, original(just the header files) commit can be found [here](https://github.com/merrittlj/tinygltf-header-files-only/tree/e6e71144f62fb72a6e0f874ab07b62a1171ec99f).
